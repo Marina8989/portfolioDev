@@ -1,4 +1,4 @@
-html,
+/* html,
 body {
   background: black;
   width:100%;
@@ -19,7 +19,7 @@ header#portfolio-body {
 }
 
 /* on my calculator */
-h1 {
+/* h1 {
   font-size: 2.8rem;
   text-shadow: 0 1px 0 #ccc,
                0 2px 0 #c9c9c9,
@@ -36,10 +36,10 @@ h1 {
 }
 p, div {
   font-size: 0.2rem;
-}
+} */
 
 /* On the projector */
-@media screen and (min-width: 70.0rem) {
+/* @media screen and (min-width: 70.0rem) {
   h1 {
     font-size: 3.6rem;
   }
@@ -132,9 +132,9 @@ footer#connect {
   left: 50%;
   -webkit-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
-}
+} */
 
-.arrow {
+/* .arrow {
   position: relative;
   height: 140px;
   width: 120px;
@@ -265,12 +265,12 @@ footer#connect {
 .arrow.-hidden>.dot:nth-of-type(10) {
   -webkit-transform: translateX(-25px) translateY(-75px);
   transform: translateX(-25px) translateY(-75px);
-}
+} */
 
 
 /**/
 /**/
-.word{
+/* .word{
    display: absolute;
    top: 0px;
    left: 0px;
@@ -299,4 +299,4 @@ footer#connect {
 .resume {
   width: 80vw;
 }
-
+ */ 

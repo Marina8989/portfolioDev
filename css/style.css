@@ -1,4 +1,4 @@
-html,
+/* html,
 body {
   background: black;
   width:100%;
@@ -16,10 +16,10 @@ header#portfolio-body {
 #portfolio-header{
   margin:auto;
   text-align:center;
-}
+} */
 
 /* on my calculator */
-h1 {
+/* h1 {
   font-size: 1.9rem;
   text-shadow: 0 1px 0 #ccc,
                0 2px 0 #c9c9c9,
@@ -36,10 +36,10 @@ h1 {
 }
 p, div {
   font-size: 0.2rem;
-}
+} */
 
 /* On the projector */
-@media screen and (min-width: 70.0rem) {
+/* @media screen and (min-width: 70.0rem) {
   h1 {
     font-size: 3.6rem;
   }
@@ -106,9 +106,9 @@ footer#connect {
   padding: 0;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-}
+} */
 
-.aboutSkills{
+/* .aboutSkills{
   display: flex;
   justify-content: space-between;
   margin-bottom: 1rem;
@@ -157,9 +157,9 @@ footer#connect {
   height: 60%;
   width: 60%;
   background: rgb(255, 255, 255);
-}
+} */
 
-.arrow>.dot.-center:nth-of-type(1) {
+/* .arrow>.dot.-center:nth-of-type(1) {
   bottom: 0;
 }
 
@@ -201,9 +201,9 @@ footer#connect {
 .arrow>.dot.-right-2 {
   bottom: 50px;
   left: 100px;
-}
+} */
 
-.arrow.-hidden {
+/* .arrow.-hidden {
   opacity: 0;
   -webkit-transform: translateY(-50px);
   transform: translateY(-50px);
@@ -257,4 +257,4 @@ footer#connect {
 .arrow.-hidden>.dot:nth-of-type(10) {
   -webkit-transform: translateX(-25px) translateY(-75px);
   transform: translateX(-25px) translateY(-75px);
-}
+} */
